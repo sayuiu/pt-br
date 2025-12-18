@@ -48,3 +48,13 @@ Poder
 Dia
 Vida
 Amizade
+Hoje
+Ontem
+Sempre
+Nunca
+Lugar
+Caminho
+Cidade
+História
+Trabalho
+Futuro
